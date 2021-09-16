@@ -17,8 +17,9 @@ table, th, td {
   border:1px solid black;
 }
 body {
-    background-color: #e3fff8;      /* blue background */
+    background-color: #e3fff8;      /* light blue background */
   }
+  /*The box at top with links to other pages*/
 .div1{
     font-size:20px;
     margin: 2%;
@@ -26,6 +27,7 @@ body {
     background-color: lightblue;
     text-align: center;
 }
+/*Main text div under header for info*/
 .div2{
     margin:20px;
     float: left;
@@ -37,12 +39,14 @@ body {
 .div2 p{
     font-size:25px;
 }
+/*Page titles*/
 .div3{
     text-align:center;
     font-size:18px;
     margin-left:10%;
     margin-right:10%;
 }
+/*Text to wrap image*/
 .div4{
     margin:20px;
     float: left;
@@ -55,6 +59,7 @@ body {
 .div4 p{
     font-size:25px;
 }    
+/*Navigational links to other pages*/
 .nav-links{
     text-align:center
 }
